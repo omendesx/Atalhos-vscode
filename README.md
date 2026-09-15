@@ -37,6 +37,7 @@ Estes atalhos também podem ser utilizados no <b>IntelliJ IDEA</b> através do p
 | `Alt + ↑ / ↓`          | Mover linha para cima/baixo                                |
 | `Shift + Alt + ↑ / ↓`  | Copiar linha para cima/baixo                               |
 | `Ctrl + ↑ / ↓`         | Rolar linha para cima/baixo                                |
+| `Ctrl + space`         | Lista de Sugestão/AutoComplete                             |
 | `Ctrl + Shift + Enter` | Inserir linha acima                                        |
 | `Ctrl + Enter`         | Inserir linha abaixo                                       |
 | `Alt + Clique`         | Inserir outro cursor                                       |
